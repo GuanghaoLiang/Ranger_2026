@@ -1,0 +1,142 @@
+[
+  {
+    "name": "GL7d17",
+    "matrix_id": "1990",
+    "n_row": 1548650,
+    "n_col": 955128,
+    "nnz": 25978098,
+    "ss_group": "JGD_GL7d",
+    "ss_name": "GL7d17",
+    "mat_path": "/mnt/data/guanghao/suitesparse/GL7d17.mat"
+  },
+  {
+    "name": "GL7d18",
+    "matrix_id": "1991",
+    "n_row": 1955309,
+    "n_col": 1548650,
+    "nnz": 35590540,
+    "ss_group": "JGD_GL7d",
+    "ss_name": "GL7d18",
+    "mat_path": "/mnt/data/guanghao/suitesparse/GL7d18.mat"
+  },
+  {
+    "name": "GL7d19",
+    "matrix_id": "1992",
+    "n_row": 1911130,
+    "n_col": 1955309,
+    "nnz": 37322725,
+    "ss_group": "JGD_GL7d",
+    "ss_name": "GL7d19",
+    "mat_path": "/mnt/data/guanghao/suitesparse/GL7d19.mat"
+  },
+  {
+    "name": "GL7d20",
+    "matrix_id": "1993",
+    "n_row": 1437547,
+    "n_col": 1911130,
+    "nnz": 29893084,
+    "ss_group": "JGD_GL7d",
+    "ss_name": "GL7d20",
+    "mat_path": "/mnt/data/guanghao/suitesparse/GL7d20.mat"
+  },
+  {
+    "name": "GL7d21",
+    "matrix_id": "1994",
+    "n_row": 822922,
+    "n_col": 1437547,
+    "nnz": 18174775,
+    "ss_group": "JGD_GL7d",
+    "ss_name": "GL7d21",
+    "mat_path": "/mnt/data/guanghao/suitesparse/GL7d21.mat"
+  },
+  {
+    "name": "GL7d22",
+    "matrix_id": "1995",
+    "n_row": 349443,
+    "n_col": 822922,
+    "nnz": 8251000,
+    "ss_group": "JGD_GL7d",
+    "ss_name": "GL7d22",
+    "mat_path": "/mnt/data/guanghao/suitesparse/GL7d22.mat"
+  },
+  {
+    "name": "GL7d23",
+    "matrix_id": "1996",
+    "n_row": 105054,
+    "n_col": 349443,
+    "nnz": 2695430,
+    "ss_group": "JGD_GL7d",
+    "ss_name": "GL7d23",
+    "mat_path": "/mnt/data/guanghao/suitesparse/GL7d23.mat"
+  },
+  {
+    "name": "Rucci1",
+    "matrix_id": "1881",
+    "n_row": 1977885,
+    "n_col": 109900,
+    "nnz": 7791168,
+    "ss_group": "Rucci",
+    "ss_name": "Rucci1",
+    "mat_path": "/mnt/data/guanghao/suitesparse/Rucci1.mat"
+  },
+  {
+    "name": "cont11_l",
+    "matrix_id": "1663",
+    "n_row": 1468599,
+    "n_col": 1961394,
+    "nnz": 5382999,
+    "ss_group": "Mittelmann",
+    "ss_name": "cont11_l",
+    "mat_path": "/mnt/data/guanghao/suitesparse/cont11_l.mat"
+  },
+  {
+    "name": "web-BerkStan",
+    "matrix_id": "2300",
+    "n_row": 685230,
+    "n_col": 685230,
+    "nnz": 7600595,
+    "ss_group": "SNAP",
+    "ss_name": "web-BerkStan",
+    "mat_path": "/mnt/data/guanghao/suitesparse/web-BerkStan.mat"
+  },
+  {
+    "name": "webbase-1M",
+    "matrix_id": "2379",
+    "n_row": 1000005,
+    "n_col": 1000005,
+    "nnz": 3105536,
+    "ss_group": "Williams",
+    "ss_name": "webbase-1M",
+    "mat_path": "/mnt/data/guanghao/suitesparse/webbase-1M.mat"
+  },
+  {
+    "name": "wheel_601",
+    "matrix_id": "2169",
+    "n_row": 902103,
+    "n_col": 723605,
+    "nnz": 2170814,
+    "ss_group": "JGD_Margulies",
+    "ss_name": "wheel_601",
+    "mat_path": "/mnt/data/guanghao/suitesparse/wheel_601.mat"
+  },
+  {
+    "name": "wikipedia-20051105",
+    "matrix_id": "1843",
+    "n_row": 1634989,
+    "n_col": 1634989,
+    "nnz": 19753078,
+    "ss_group": "Gleich",
+    "ss_name": "wikipedia-20051105",
+    "mat_path": "/mnt/data/guanghao/suitesparse/wikipedia-20051105.mat"
+  },
+  {
+    "name": "wikipedia-20070206",
+    "matrix_id": "1846",
+    "n_row": 3566907,
+    "n_col": 3566907,
+    "nnz": 45030389,
+    "ss_group": "Gleich",
+    "ss_name": "wikipedia-20070206",
+    "mat_path": "/mnt/data/guanghao/suitesparse/wikipedia-20070206.mat"
+  }
+]
